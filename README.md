@@ -39,5 +39,5 @@ Utilize descriptive and inferential statistical methods along with appropriate d
 
 * Basic descriptive statistics for key variables;
 * Data visualizations such as boxplots, bar charts, histograms, and scatter plots;
-* Statistical tests including t-tests, ANOVA, Pearson correlation, and linear regression where relevant;
+* Statistical tests including t-tests, ANOVA, Levene's test, Pearson correlation, and linear regression where relevant;
 * Clear interpretations and explanations for each graph and statistical result to ensure practical insights for non-statisticians involved in decision-making.
